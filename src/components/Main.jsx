@@ -35,7 +35,7 @@ class Main extends React.Component {
         		<h2>Managing employees just got easier!</h2>
 						<p>It is a long established fact that a reader will be of a page when established fact looking at its layout.</p>
 							<Link to="/signup" id="signup-btn" className="btn btn-sm purple lighten-3">
-	      				Get Started
+	      				 Get Started
 							</Link>
 				</div>
 				<div className="column_right">
@@ -63,7 +63,7 @@ class Main extends React.Component {
           <div className="icon-block">
             <h2 className="center purple-text"><i className="material-icons home">settings</i></h2>
             <h5 className="center">Easy to work with</h5>
-            <p className="light">With the Gorilla Sheduler app, Managers can quickly see who’s working,  Who’s scheduled and who’s available. </p>
+            <p className="light">With the Oak Sheduler app, Managers can quickly see who’s working,  Who’s scheduled and who’s available. </p>
           </div>
         </div>
       </div>

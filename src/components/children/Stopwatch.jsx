@@ -48,7 +48,7 @@ const leftPad = (width, n) => {
       const {isRunning, lapTimes, timeElapsed} = this.state;
       return (
         <div>
-          <TimeElapsed id="timer" timeElapsed={timeElapsed} />
+          {/* <TimeElapsed id="timer" timeElapsed={timeElapsed} /> */}
           <button onClick={this.toggle} className='btn waves-effect waves-light purple lighten-3 black-text loginButtons'>
             {isRunning ? 'Clock Out' : 'Clock In'}
           </button>
